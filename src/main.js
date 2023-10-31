@@ -13,7 +13,7 @@ import Aos from 'aos';
 import 'aos/dist/aos.css';
 
 const base = axios.create({
-  baseURL: 'https://backendmc-93mo.onrender.com',
+  baseURL: 'https://backendmongo-xn33.onrender.com',
 });
 
 Vue.config.productionTip = false
